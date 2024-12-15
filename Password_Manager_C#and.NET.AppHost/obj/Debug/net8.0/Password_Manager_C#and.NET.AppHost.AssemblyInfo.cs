@@ -26,7 +26,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Password_Manager_C#and.NET.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a2c01e1e5b471e0da24e417ff428b365051206")]
 [assembly: System.Reflection.AssemblyProductAttribute("Password_Manager_C#and.NET.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Password_Manager_C#and.NET.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
